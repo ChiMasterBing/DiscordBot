@@ -1,3 +1,3 @@
 # DiscordBot
-ChiMasterBing's ChiMasterBong Discord Bot
+ChiMasterBing's ChiMasterBong Discord Bot\n
 Made with Node.js
